@@ -1,5 +1,3 @@
-That’s a great idea! Amisos is a clean, modern theme that fits Kuma’s storytelling and memory-preserving mission. Below is a landing page structure optimized for early sign-ups and engagement.
-
 ✨ Kuma Landing Page: Structure & Content
 
 🎯 Goal: Clearly communicate Kuma’s mission and drive early access sign-ups.
